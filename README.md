@@ -43,7 +43,7 @@ Para cumplir con los requisitos planteados solo fueron necesarios las librerías
 El objetivo de este paso era realizar cinco queries desde una web API.
 Para cumplir con este punto se escogió FASTAPI.
 </p>
-La creación de la API consta un solo archivo .py, a saber main.py y algunos archivos __init__ para trabajar el proyecto como un solo paquete. Debido a que no se utilizó una base de datos, no fue necesario crear archivos para el manejo de esta, ni para los modelos de algún ORM que mapeara las tablas relacionales, ni tampoco para los clásicos schemas de PYDANTIC. Las librerías utilizadas
+La creación de la API consta un solo archivo .py, a saber main.py y algunos archivos .ipynb para trabajar el proyecto como un solo paquete. Debido a que no se utilizó una base de datos, no fue necesario crear archivos para el manejo de esta, ni para los modelos de algún ORM que mapeara las tablas relacionales, ni tampoco para los clásicos schemas de PYDANTIC. Las librerías utilizadas
 en el script main.py fueron, fastapi, pandas y uvicorn. 
 
 Aclaramos que por una cuestión práctica, todas las funciones fueron nombradas igual que la consulta que llevan adelante. Aunque en un caso real, por cuestiones de seguridad, esta práctica no está aconsejada.
