@@ -1,17 +1,16 @@
 # <h1 align=center><span style="color:blue"> **Training Project about Data Engineering** </span></h1>
 
 <p align="center">
-<img src="https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg"  height=300>
+<img src="https://revistapuntobo.com/wp-content/uploads/2020/09/netflix-disney-plus-amazon-hulu-1205084-1280x0-1.jpeg"  height=300>
 </p>
 
 ## **Introducción**
-<p>
-Este proyecto forma parte de las prácticas individuales de laboratorios de Henry. En esta instancia de evaluación se nos propuso realizar un pipeline de tratamiento de datos que incluye, extracción de datos, creación de una API web, y deployment de esta en un sitio web. Para comenzar, nuestro insumo estaba formado por cuatro datasets, que contenían los datos de cuatro reconocidas plataformas de servicio de video on-demand(Amazon Prime, Disney, Hulu y Netflix). En segundo lugar, el tratamiento de datos, consistió en una pequeña transformación a pedido del cliente, debido a que le interesaba que los datos nulos no fuesen modificados, excepto aquellos en uno solo de los campos. Para esto utilizamos Python y algunas dependencias especializadas en el tratamiento de datos. En tercer lugar, la creación de la API fue llevada adelante utilizando el framework fastapi y Python como lenguaje de programación. Para finalizar, realizamos el deployment utilizando el sitio web de Render.
+<p>Me propuse realizar un pipeline de tratamiento de datos que incluye, extracción de datos, creación de una API web, y deployment de esta en un sitio web. Para comenzar, nuestro insumo estaba formado por cuatro datasets, que contenían los datos de cuatro reconocidas plataformas de servicio de video on-demand(Amazon Prime, Disney, Hulu y Netflix). En segundo lugar, el tratamiento de datos, consistió en una pequeña transformación a pedido del cliente, debido a que le interesaba que los datos nulos no fuesen modificados, excepto aquellos en uno solo de los campos. Para esto utilizamos Python y algunas dependencias especializadas en el tratamiento de datos. En tercer lugar, la creación de la API fue llevada adelante utilizando el framework fastapi y Python como lenguaje de programación. Para finalizar, realizamos el deployment utilizando el sitio web de Render.
     
 </p>
 <hr>  
 <p align="center">
-  <img src="https://media.tenor.com/Yccohm6KAAYAAAAC/steinsgate-steins.gif" alt="GIF" width="800" height="300" />
+  <img src="https://umd-today.files.svdcdn.com/production/hero/streaming_animated_1920x1080.gif" alt="GIF" width="1000" height="500" />
 </p>
 <hr>  
 
@@ -96,15 +95,15 @@ Los siguientes son algunos puntos que podrían enriquecer el proyecto:
 
 <hr>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/43/a2/28/43a228876141df0c17ebf8f18b8f2afc.gif" alt="GIF" width="600" height="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9xOHZ0b3Y4bGZnemx5dDZxajVqeDI2MGRla2ZoaWppaTNqbWExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4uMy0wqz6V1SM/giphy.gif" alt="GIF" width="600" height="300" />
 </p>
 <hr>
 
 ## Sitios con información sobre este proyecto
 
-__Deployment de la api__
+**`Deployment de la api`**
 - https://data-engineering-mauro.onrender.com/docs
 
-__Repositorio Github__
+**`Repositorio Github`**
 
 - https://github.com/Superior-Mauro/Project_Data_Engineering
