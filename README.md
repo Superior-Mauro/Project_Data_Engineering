@@ -1,7 +1,7 @@
 # <h1 align=center><span style="color:blue"> **Training Project about Data Engineering** </span></h1>
 
 <p align="center">
-<img src="https://revistapuntobo.com/wp-content/uploads/2020/09/netflix-disney-plus-amazon-hulu-1205084-1280x0-1.jpeg"  height=300>
+<img src="https://camo.githubusercontent.com/09bd9c8fd059de237050145eff2d484627bf3ffe6958205914d3af018357e998/68747470733a2f2f66696c65732e7265616c707974686f6e2e636f6d2f6d656469612f576861742d69732d446174612d456e67696e656572696e675f57617465726d61726b65642e3630376537363161336330652e6a7067"  height=300>
 </p>
 
 ## **Introducción**
